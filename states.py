@@ -1,0 +1,1 @@
+MAINMENU, KNB, BAK, KNZ, RATE = range(5)
